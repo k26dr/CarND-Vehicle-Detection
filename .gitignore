@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 data/
 pickles/
+output_videos/
+assets/
+*.swp
